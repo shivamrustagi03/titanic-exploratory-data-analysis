@@ -1,5 +1,6 @@
-**🚢 End-to-End Exploratory Data Analysis (EDA) on the Titanic Dataset
-****📌 Project Overview**
+**🚢 End-to-End Exploratory Data Analysis (EDA) on the Titanic Dataset**
+
+**📌 Project Overview**
 
 This project performs a comprehensive, end-to-end Exploratory Data Analysis (EDA) on the famous Titanic dataset to uncover key factors that influenced passenger survival.
 The goal of this project is not model building, but to demonstrate strong data understanding, analytical thinking, and storytelling using data — skills that are critical for Data Analyst, Data Scientist, and AI roles.
